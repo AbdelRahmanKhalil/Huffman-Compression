@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1610481784 source:e:\collej\projects\hoff\main.cpp
+	<fstream>
+	<iterator>
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<bits/stdc++.h>
+	<string.h>
+
